@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stryker101
-- 👀 I’m interested in fullstack engineering 
-- 🌱 I’m currently learning the basics of coding as i am a beginner 
+- 👀 I’m a sucker for Kotlin
+- 🌱 Junior Android Engineer.
 
 
 <!---
