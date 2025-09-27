@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stryker101
 - 👀 I’m a sucker for Kotlin
-- 🌱 Junior Android Engineer.
+- 🌱 Android Engineer.
 
 
 <!---
